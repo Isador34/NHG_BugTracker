@@ -48,6 +48,7 @@ gui.kit.nanoLevel=NanoLevels :
 gui.menu.nhg_server=Nanotech's HungerGames server!
 gui.admin.nextStatus=Next game event
 gui.admin.name=Admin panel
+gui.menu.serverstopped=Server stopped
 
 kit.kit1.name=Barbarian
 kit.kit1.desc=You are more resistant, stronger but you run and mine slower :(.\nYou get a stone sword, and a chestplate.
