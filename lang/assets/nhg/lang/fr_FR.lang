@@ -76,7 +76,7 @@ kit.kit12.desc=Vous avez un oeuf de cheval déjà apprivoisé, une selle et une 
 kit.kit13.name=Zombie
 kit.kit13.desc=Vous avez 5 oeuf de zombie.\nVous êtes plus résistant.\nVous brulez au soleil sauf si vous avez un casque.
 kit.kit14.name=Enderman
-kit.kit14.desc=Vous avez 5 ender pearl. et un objet de téléportation aléatoire\nVous êtes moins résistant à l'eau et à la pluie.
+kit.kit14.desc=Vous avez 5 ender pearl et un objet de téléportation aléatoire.\nVous êtes moins résistant à l'eau et à la pluie.
 kit.kit15.name=Kit15
 kit.kit15.desc=
 kit.kit16.name=Kit16
@@ -119,3 +119,5 @@ item.horseEgg.name=Oeuf de cheval
 item.flameThrower.name=Lance Flamme
 item.flamethrower.desc=Item du mod Ratchet And Clank de gugu42
 item.randomTp.name=Téléportation aléatoire
+
+death.attack.bomber=%s a été bombardé!
