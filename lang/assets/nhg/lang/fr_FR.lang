@@ -45,7 +45,7 @@ gui.option.guipos=Position de l'interface :
 gui.option.opacity=Opacité: %d
 gui.kit.name=Choix du kit
 gui.kit.nanoLevel=Niveau :
-gui.menu.nhg_server=Nanotech Hunger Games !
+gui.menu.nhg_server=Serveur Hunger Games
 gui.admin.nextStatus=Évenement de jeu suivant
 gui.admin.name=Interface administrateur
 gui.menu.serverstopped=Serveur stoppé
@@ -123,3 +123,9 @@ item.flamethrower.desc=Item du mod Ratchet And Clank de gugu42
 item.randomTp.name=Téléportation aléatoire
 
 death.attack.bomber=%s a été bombardé!
+
+mojang.birthday=Joyeux anniversaire, %s !
+mojang.xmas=Joyeux noël!
+mojang.newyear=Bonne année!
+mojang.halloween=OOoooOOOoooo! Effrayant!
+mojang.distribute=Ne pas redistribuer!
