@@ -128,3 +128,8 @@ mojang.xmas=Merry X-mas!
 mojang.newyear=Happy new year!
 mojang.halloween=OOoooOOOoooo! Spooky!
 mojang.distribute=Do not distribute!
+
+fml.config=Config
+fml.disable=Disable
+fml.modlist=Mod List
+fml.disabled=DISABLED
