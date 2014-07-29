@@ -53,7 +53,7 @@ gui.menu.serverstopped=Serveur stoppé
 gui.menu.time=Temps: %s
 
 kit.kit1.name=Barbare
-kit.kit1.desc=Vous avez une épée en pierre et un plastron en maille\nVous êtes plus résistant et plus fort.\nVous êtes plus lent, vous minez moins vite et vous êtes moins endurant.
+kit.kit1.desc=Vous avez une épée en pierre et un plastron en maille.\nVous êtes plus résistant et plus fort.\nVous êtes plus lent, vous minez moins vite et vous êtes moins endurant.
 kit.kit2.name=Fermier
 kit.kit2.desc=Vous avez 5 graines et une houe en pierre.\nLes cultures se développent instantanément!\nVotre barre de nourriture se remplit moins vite.
 kit.kit3.name=Mineur
