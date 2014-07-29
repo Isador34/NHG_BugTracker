@@ -24,9 +24,9 @@ message.info.tp=Use key %d to get teleported to the other players!
 message.info.kit=Use key %d to change your kit!
 message.info.compass=Use key %d to change your compass mode!
 message.info.cmap=The command 'changeMap' or 'cmap' allow you to vote to get a new map!
+message.info.target=You can target player with the compass now!
 
 game.alreadyStarted=The game has already started !
-
 
 board.timeTillTheGameStarts=The game starts in : %d
 board.invincibilityTimeLeft=Invincibility time left : %d

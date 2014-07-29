@@ -24,6 +24,7 @@ message.info.tp=Appuyer sur la touche %d pour vous tp aux autres joueurs!
 message.info.kit=Appuyer sur la touche %d pour changer de kit!
 message.info.compass=Appuyer sur la touche %d pour changer le mode de la boussole!
 message.info.cmap=La commande 'changeMap' ou 'cmap' vous permet de voter pour le changement de carte!
+message.info.target=Vous pouvez maintenant cibler les autres joueur avec la boussole!
 
 game.alreadyStarted=La partie a déjà commencé !
 
