@@ -25,6 +25,10 @@ message.info.kit=Use key %d to change your kit!
 message.info.compass=Use key %d to change your compass mode!
 message.info.cmap=The command 'changeMap' or 'cmap' allow you to vote to get a new map!
 message.info.target=You can target player with the compass now!
+message.team.created=Team created!
+message.team.failed=Team creation failed! Name already use.
+message.team.playerHasTeam=Player already has a team!
+message.team.playerNoExist=Player no found!
 
 game.alreadyStarted=The game has already started !
 
@@ -50,6 +54,14 @@ gui.menu.nhg_server=Hunger Games Server
 gui.admin.nextStatus=Next game event
 gui.admin.name=Admin panel
 gui.menu.serverstopped=Server stopped
+gui.team.invite=Invite player
+gui.team.leave=Leave this team
+gui.team.red=Red
+gui.team.green=Green
+gui.team.blue=Blue
+gui.team.create=Create team
+gui.team.cancel=Cancel
+gui.team.name=Create a team
 
 kit.kit1.name=Barbarian
 kit.kit1.desc=You are more resistant, stronger but you run and mine slower :(.\nYou get a stone sword, and a chestplate.

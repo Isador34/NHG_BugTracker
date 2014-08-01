@@ -25,6 +25,10 @@ message.info.kit=Appuyer sur la touche %d pour changer de kit!
 message.info.compass=Appuyer sur la touche %d pour changer le mode de la boussole!
 message.info.cmap=La commande 'changeMap' ou 'cmap' vous permet de voter pour le changement de carte!
 message.info.target=Vous pouvez maintenant cibler les autres joueur avec la boussole!
+message.team.created=Groupe créé
+message.team.failed=Impossible de créé le groupe! Ce nom est déjà pris.
+message.team.playerHasTeam=Ce joueur est déjà dans un groupe!
+message.team.playerNoExist=Ce joueur n'a pas été trouvé!
 
 game.alreadyStarted=La partie a déjà commencé !
 
@@ -51,6 +55,14 @@ gui.admin.nextStatus=Évenement de jeu suivant
 gui.admin.name=Interface administrateur
 gui.menu.serverstopped=Serveur stoppé
 gui.menu.time=Temps: %s
+gui.team.invite=Inviter un joueur
+gui.team.leave=Quitter ce groupe
+gui.team.red=Rouge
+gui.team.green=Vert
+gui.team.blue=Bleu
+gui.team.create=Créer
+gui.team.cancel=Annuler
+gui.team.name=Créer un groupe
 
 kit.kit1.name=Barbare
 kit.kit1.desc=Vous avez une épée en pierre et un plastron en maille.\nVous êtes plus résistant et plus fort.\nVous êtes plus lent, vous minez moins vite et vous êtes moins endurant.
