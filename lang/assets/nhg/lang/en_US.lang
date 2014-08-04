@@ -145,6 +145,9 @@ item.horseEgg.name=Horse Egg
 item.flameThrower.name=Flame thrower
 item.flamethrower.desc=Items from gugu42's Ratchet And Clank Mod
 item.randomTp.name=Random teleport
+item.flameThrower.full=Flames thrower is full!
+
+tile.charging.name=Flames thrower's charging pad
 
 death.attack.bomber=%s was bombed!
 

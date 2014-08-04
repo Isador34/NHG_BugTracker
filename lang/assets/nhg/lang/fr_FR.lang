@@ -146,6 +146,9 @@ item.horseEgg.name=Oeuf de cheval
 item.flameThrower.name=Lance Flamme
 item.flamethrower.desc=Item du mod Ratchet And Clank de gugu42
 item.randomTp.name=Téléportation aléatoire
+item.flameThrower.full=Le lance flamme est chargé!
+
+tile.charging.name=Plaque de chargement de lance flamme
 
 death.attack.bomber=%s a été bombardé!
 
