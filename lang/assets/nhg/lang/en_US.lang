@@ -33,6 +33,7 @@ message.team.leave=§4%s §9leave your team!
 message.team.youleave=§9You leave the team!
 message.team.join=§4%s §9Join your team!
 message.team.youjoin=§9You join the team!
+message.stats.wait=§4Wait %d secondes before try again!
 
 game.alreadyStarted=§4The game has already started !
 
