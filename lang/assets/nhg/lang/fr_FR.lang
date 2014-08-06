@@ -107,9 +107,9 @@ kit.kit14.desc=Vous avez 5 ender pearl et un objet de téléportation aléatoire
 kit.kit15.name=Mouton
 kit.kit15.desc=Vous devenez un mouton, vous ne pouvez plus manger de viande et les loups vous attaquent!
 kit.kit16.name=Pêcheur
-kit.kit16.desc=Vous avez cinq bateaux et une canne à pêche. Vous courrez moin vite et vous nagez plus rapidement./nVous êtes moin résistant face au attaque et très faible contre le feu.
-kit.kit17.name=Kit17
-kit.kit17.desc=
+kit.kit16.desc=Vous avez cinq bateaux et une canne à pêche. Vous courrez moins vite et vous nagez plus rapidement./nVous êtes moins résistant face au attaque et très faible contre le feu.
+kit.kit17.name=Lycanthrope
+kit.kit17.desc=Vous devenez un loup, la nuit.\nVous avez plus résistant, vous courez plus vite, vous sautez plus haut, la nuit.\nVous êtes très peu résistant aux armes en argent et vous êtes en empoisonné.
 kit.kit18.name=Kit18
 kit.kit18.desc=
 kit.kit19.name=Kit19
@@ -133,7 +133,7 @@ kit.kit27.desc=
 kit.visitor.name=Spectateur
 kit.visitor.desc=Vous êtes invisible.\nVous ne prenez pas de dégâts.\nVous pouvez vous téléportez vers d'autres joueurs en appuyant sur %d
 kit.random.name=Kit aléatoire
-kit.random.desc=Vous donne un kit aléatoire parmis les différents proposés
+kit.random.desc=Vous donne un kit aléatoire parmis les différents proposés.
 
 key.panel=Interface administrateur
 key.compass=Bascule du mode de la boussole
@@ -149,6 +149,11 @@ item.flameThrower.name=Lance Flamme
 item.flamethrower.desc=Item du mod Ratchet And Clank de gugu42
 item.randomTp.name=Téléportation aléatoire
 item.flameThrower.full=Le lance flamme est chargé!
+item.silverIngot.name=L'ingot d'Argent
+item.silverSword.name=Épée d'Argent
+item.silverAxe.name=Hache d'Argent
+item.silverPickaxe.name=Pioche d'Argent
+item.silverHoe.name=Houe d'Argent
 
 tile.charging.name=Plaque de chargement de lance flamme
 

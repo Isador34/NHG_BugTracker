@@ -106,9 +106,9 @@ kit.kit14.desc=You get 5 enderpearls and a random teleportation item. Water and 
 kit.kit15.name=Sheep
 kit.kit15.desc=You become a sheep, you can't eat meal and wolfs attack you!
 kit.kit16.name=FisherMan
-kit.kit16.desc=You get five boat and one fishing rod, tou walk slower and swing faster./nYou are less resitant to damage and very weak against fire.
-kit.kit17.name=Kit17
-kit.kit17.desc=
+kit.kit16.desc=You get five boat and one fishing rod, tou walk slower and swing faster./nYou are less resistant to damage and very weak against fire.
+kit.kit17.name=WereWolf
+kit.kit17.desc=You become a wolf at night.\nYou stronger, you run faster, you jump higher at night.\nYou are very resistant to silver weapons and you are poisoned.
 kit.kit18.name=Kit18
 kit.kit18.desc=
 kit.kit19.name=Kit19
@@ -148,6 +148,11 @@ item.flameThrower.name=Flame thrower
 item.flamethrower.desc=Items from gugu42's Ratchet And Clank Mod
 item.randomTp.name=Random teleport
 item.flameThrower.full=Flames thrower is full!
+item.silverIngot.name=Silver Ingot
+item.silverSword.name=Silver Sword
+item.silverAxe.name=Silver Axe
+item.silverPickaxe.name=Silver Pickaxe
+item.silverHoe.name=Silver Hoe
 
 tile.charging.name=Flames thrower's charging pad
 
