@@ -150,13 +150,14 @@ item.flameThrower.name=Lance Flamme
 item.flamethrower.desc=Item du mod Ratchet And Clank de gugu42
 item.randomTp.name=Téléportation aléatoire
 item.flameThrower.full=Le lance flamme est chargé!
-item.silverIngot.name=L'ingot d'Argent
+item.silverIngot.name=Lingot d'Argent
 item.silverSword.name=Épée d'Argent
 item.silverAxe.name=Hache d'Argent
 item.silverPickaxe.name=Pioche d'Argent
 item.silverHoe.name=Houe d'Argent
 
 tile.charging.name=Plaque de chargement de lance flamme
+tile.silverOre.name=Minerais d'argent
 
 death.attack.bomber=%s a été bombardé!
 
