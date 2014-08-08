@@ -154,6 +154,11 @@ item.silverSword.name=Silver Sword
 item.silverAxe.name=Silver Axe
 item.silverPickaxe.name=Silver Pickaxe
 item.silverHoe.name=Silver Hoe
+item.silverShovel.name=Silver Shovel
+item.silverhelmet.name=Silver Helmet
+item.silverChestplate.name=Silver Chestplate
+item.silverLeggings.name=Silver Leggings
+item.silverBoots.name=Silver Boots
 
 tile.charging.name=Flames thrower's charging pad
 tile.silverOre.name=Silver Ore

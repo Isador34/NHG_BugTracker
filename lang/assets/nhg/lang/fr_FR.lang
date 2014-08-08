@@ -155,6 +155,11 @@ item.silverSword.name=Épée d'Argent
 item.silverAxe.name=Hache d'Argent
 item.silverPickaxe.name=Pioche d'Argent
 item.silverHoe.name=Houe d'Argent
+item.silverShovel.name=Pelle d'Argent
+item.silverhelmet.name=Casque d'Argent
+item.silverChestplate.name=Plastron d'Argent
+item.silverLeggings.name=Pantalon d'Argent
+item.silverBoots.name=Bottes d'Argent
 
 tile.charging.name=Plaque de chargement de lance flamme
 tile.silverOre.name=Minerais d'argent
