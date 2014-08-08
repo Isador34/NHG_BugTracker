@@ -163,6 +163,9 @@ item.silverBoots.name=Bottes d'Argent
 
 tile.charging.name=Plaque de chargement de lance flamme
 tile.silverOre.name=Minerais d'argent
+tile.hardened_clay_stair.name=Escalier d'argile
+tile.hardened_clay_simple.name=Dalle d'argile
+tile.hardened_clay_double.nme=Dalle d'argile double
 
 death.attack.bomber=%s a été bombardé!
 

@@ -162,6 +162,9 @@ item.silverBoots.name=Silver Boots
 
 tile.charging.name=Flames thrower's charging pad
 tile.silverOre.name=Silver Ore
+tile.hardened_clay_stair.name=Clay stair
+tile.hardened_clay_simple.name=Clay slab
+tile.hardened_clay_double.nme=Double clay slab
 
 death.attack.bomber=%s was bombed!
 
