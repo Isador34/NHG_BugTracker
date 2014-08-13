@@ -165,7 +165,11 @@ tile.charging.name=Plaque de chargement de lance flamme
 tile.silverOre.name=Minerais d'argent
 tile.hardened_clay_stair.name=Escalier d'argile
 tile.hardened_clay_simple.name=Dalle d'argile
-tile.hardened_clay_double.nme=Dalle d'argile double
+tile.hardened_clay_double.name=Dalle d'argile double
+tile.statsBlock.name=Bloc de statistiques
+tile.lightair.name=Air lumineux
+tile.clear_glass_clear.name=Glasse connectée
+tile.clear_glass_colored.name=Glasse connectée colorée
 
 death.attack.bomber=%s a Ã©tÃ© bombardÃ©!
 

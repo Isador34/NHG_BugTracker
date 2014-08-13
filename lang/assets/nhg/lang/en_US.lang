@@ -164,7 +164,11 @@ tile.charging.name=Flames thrower's charging pad
 tile.silverOre.name=Silver Ore
 tile.hardened_clay_stair.name=Clay stair
 tile.hardened_clay_simple.name=Clay slab
-tile.hardened_clay_double.nme=Double clay slab
+tile.hardened_clay_double.name=Double clay slab
+tile.statsBlock.name=Statistics block
+tile.lightair.name=Luminous air
+tile.clear_glass_clear.name=Connected glass
+tile.clear_glass_colored.name=Connected glass colored
 
 death.attack.bomber=%s was bombed!
 
