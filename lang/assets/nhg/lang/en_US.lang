@@ -83,7 +83,7 @@ kit.kit2.desc=The crop grows instantly tough it takes more food to feed you!\nYo
 kit.kit3.name=Miner
 kit.kit3.desc=You mine faster, you get an iron pickaxe, a shovel,\n64 torches, 5 pork chops and a water bucket. \n You are less resistant anginst portions and slower.
 kit.kit4.name=WoodCutter
-kit.kit4.desc=You cutdown trees all at once, you get an iron axe\nand fighting with an axe increases your power !
+kit.kit4.desc=You cut down whole trees by cutting one log, you get an iron axe\nand fighting with an axe increases your power !
 kit.kit5.name=Alchemist
 kit.kit5.desc=You get every thing you need to brew potions !\n your are more resistant against potions but you are less efficient with conventional weapons.
 kit.kit6.name=Enchanter
@@ -168,7 +168,7 @@ tile.hardened_clay_double.name=Double clay slab
 tile.statsBlock.name=Statistics block
 tile.lightair.name=Luminous air
 tile.clear_glass_clear.name=Connected glass
-tile.clear_glass_colored.name=Connected glass colored
+tile.clear_glass_colored.name=Colored connected glass
 
 death.attack.bomber=%s was bombed!
 
