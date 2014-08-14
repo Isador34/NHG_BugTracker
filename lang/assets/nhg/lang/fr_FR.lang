@@ -33,7 +33,7 @@ message.team.leave=§4%s §9à quitter votre goupe!
 message.team.youleave=§9Vous avez quitté le groupe!
 message.team.join=§4%s §9à rejoint votre groupe!
 message.team.youjoin=§9Vous avez rejoint le groupe!
-message.stats.wait=§4Attendez encore %d §4secondes avant de réésayer!
+message.stats.wait=§4Attendez encore %d §4secondes avant de réessayer!
 
 game.alreadyStarted=§4La partie a déjà commencé !
 
@@ -168,8 +168,8 @@ tile.hardened_clay_simple.name=Dalle d'argile
 tile.hardened_clay_double.name=Dalle d'argile double
 tile.statsBlock.name=Bloc de statistiques
 tile.lightair.name=Air lumineux
-tile.clear_glass_clear.name=Glasse connect�e
-tile.clear_glass_colored.name=Glasse connect�e color�e
+tile.clear_glass_clear.name=Glasse connect�e
+tile.clear_glass_colored.name=Glasse connect�e color�e
 
 death.attack.bomber=%s a été bombardé!
 
