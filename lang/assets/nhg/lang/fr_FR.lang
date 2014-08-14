@@ -24,7 +24,7 @@ message.info.tp=§bAppuyer sur la touche %d §bpour vous tp aux autres joueurs!
 message.info.kit=§bAppuyer sur la touche %d §bpour changer de kit!
 message.info.compass=§bAppuyer sur la touche %d §bpour changer le mode de la boussole!
 message.info.cmap=§bLa commande §f'changeMap' §bou §f'cmap' §bvous permet §bde voter §bpour le changement de carte!
-message.info.target=§6Vous pouvez maintenant cibler les autres joueur avec la boussole!
+message.info.target=§6Vous pouvez maintenant cibler les autres joueurs avec la boussole!
 message.team.created=§9Groupe créé
 message.team.failed=§9Impossible de créé le groupe! Ce nom est déjà pris.
 message.team.playerHasTeam=§9Ce joueur est déjà dans un groupe!
@@ -168,8 +168,8 @@ tile.hardened_clay_simple.name=Dalle d'argile
 tile.hardened_clay_double.name=Dalle d'argile double
 tile.statsBlock.name=Bloc de statistiques
 tile.lightair.name=Air lumineux
-tile.clear_glass_clear.name=Glasse connect�e
-tile.clear_glass_colored.name=Glasse connect�e color�e
+tile.clear_glass_clear.name=Verre connectée
+tile.clear_glass_colored.name=Verre connectée colorée
 
 death.attack.bomber=%s a été bombardé!
 
