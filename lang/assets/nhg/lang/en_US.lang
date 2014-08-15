@@ -34,6 +34,7 @@ message.team.youleave=§9You leaved the team!
 message.team.join=§4%s §9joined your team!
 message.team.youjoin=§9You joined the team!
 message.stats.wait=§4Please wait %d §4seconds before trying again!
+message.player.changeServer=§f %1$s §ejoin server §f%2$s
 
 game.alreadyStarted=§4The game has already started !
 
