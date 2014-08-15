@@ -183,3 +183,4 @@ fml.config=Configuration
 fml.disable=Désactiver
 fml.modlist=Liste des mods
 fml.disabled=DÉSACTIVÉ
+options.shader=Shader...

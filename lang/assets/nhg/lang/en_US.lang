@@ -182,3 +182,4 @@ fml.config=Config
 fml.disable=Disable
 fml.modlist=Mod List
 fml.disabled=DISABLED
+options.shader=Shader...
