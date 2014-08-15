@@ -111,7 +111,7 @@ kit.kit16.desc=You get five boat and one fishing rod, tou walk slower and swing 
 kit.kit17.name=WereWolf
 kit.kit17.desc=You become a werewolf at night.\nYou stronger, you run faster, you jump higher at night.\nYou are very resistant to silver weapons and you are poisoned.
 kit.kit18.name=Spy
-kit.kit18.desc=You get an invisibility potion and\na knife that removes 50% of the current's opponent health if you hit him in the back!\nHowever, you take 10% more damage per hit received.
+kit.kit18.desc=You get an invisibility potion and\n a knife that removes 50% of the current's opponent health if you hit him in the back!\nHowever, you take 10% more damage per hit received.
 kit.kit19.name=Kit19
 kit.kit19.desc=
 kit.kit20.name=Kit20
@@ -160,6 +160,8 @@ item.silverChestplate.name=Silver Chestplate
 item.silverLeggings.name=Silver Leggings
 item.silverBoots.name=Silver Boots
 item.backStabber.name=Back Stabber's knife
+item.cloakingDevice.name=Cloaking Device
+item.backStabberSilver.name=Silver Back Stabber's knife
 
 tile.charging.name=Flames thrower's charging pad
 tile.silverOre.name=Silver Ore
