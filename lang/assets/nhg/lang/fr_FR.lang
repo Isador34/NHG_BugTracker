@@ -41,6 +41,7 @@ message.player.join=§f %s §erejoint cette partie!
 message.player.joinSpec=§f %s §evient observer cette partie!
 message.player.joinLobby=§f %s §evient de se connecter!
 message.player.joinLobbyFromGame=§f %1$s §evient du serveur §f%2$s !
+message.player.achievement=%s a obtenu le succès %s!
 
 game.alreadyStarted=§4La partie a déjà commencé !
 

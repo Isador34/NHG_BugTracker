@@ -41,6 +41,7 @@ message.player.join=§f %s §ejoin this game!
 message.player.joinSpec=§f %s §ecome to see this game!(check english)
 message.player.joinLobby=§f %s §ejust connect!(check english)
 message.player.joinLobbyFromGame=§f %1$s §ecome from server §f%2$s !
+message.player.achievement=%s got the achievement %s!
 
 game.alreadyStarted=§4The game has already started !
 
