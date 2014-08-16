@@ -34,7 +34,13 @@ message.team.youleave=§9Vous avez quitté le groupe!
 message.team.join=§4%s §9à rejoint votre groupe!
 message.team.youjoin=§9Vous avez rejoint le groupe!
 message.stats.wait=§4Attendez encore %d §4secondes avant de réessayer!
-message.player.changeServer=§f %1$s §ea rejoint le serveur §f%2$s
+message.player.changeServer=§f %1$s §ea rejoint le serveur §f%2$s !
+message.player.left=§f %s §ea quitter ce serveur!
+message.player.leftLobby=§f %s §ea quitter le hall!
+message.player.join=§f %s §erejoint cette partie!
+message.player.joinSpec=§f %s §evient observer cette partie!
+message.player.joinLobby=§f %s §evient de se connecter!
+message.player.joinLobbyFromGame=§f %1$s §evient du serveur §f%2$s !
 
 game.alreadyStarted=§4La partie a déjà commencé !
 
