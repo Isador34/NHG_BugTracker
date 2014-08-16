@@ -38,7 +38,7 @@ message.player.changeServer=§f %1$s §ejoin server §f%2$s
 
 game.alreadyStarted=§4The game has already started !
 
-board.timeTillTheGameStarts=The game starts in : %d
+board.timeTillTheGameStarts=The game starts in : %dmin and %ds
 board.invincibilityTimeLeft=Invincibility time left : %d
 board.timeBeforeFeast=Time before the feast timer starts : %d
 board.timeFeast=Time before the feast appears : %d

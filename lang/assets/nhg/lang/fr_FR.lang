@@ -26,7 +26,7 @@ message.info.compass=§bAppuyer sur la touche %d §bpour changer le mode de la b
 message.info.cmap=§bLa commande §f'changeMap' §bou §f'cmap' §bvous permet §bde voter §bpour le changement de carte!
 message.info.target=§6Vous pouvez maintenant cibler les autres joueurs avec la boussole!
 message.team.created=§9Groupe créé
-message.team.failed=§9Impossible de créé le groupe! Ce nom est déjà pris.
+message.team.failed=§9Impossible de créer le groupe! Ce nom est déjà pris.
 message.team.playerHasTeam=§9Ce joueur est déjà dans un groupe!
 message.team.playerNoExist=§9Ce joueur n'a pas été trouvé!
 message.team.leave=§4%s §9à quitter votre goupe!
@@ -38,7 +38,7 @@ message.player.changeServer=§f %1$s §ea rejoint le serveur §f%2$s
 
 game.alreadyStarted=§4La partie a déjà commencé !
 
-board.timeTillTheGameStarts=La partie commence dans : %d
+board.timeTillTheGameStarts=La partie commence dans : %dmin et %ds
 board.invincibilityTimeLeft=Temps d'invincibilité restant : %d
 board.timeBeforeFeast=Temps avant que l'horloge de la feast commence : %d
 board.timeFeast=Temps avant l'apparition de la feast : %d
