@@ -169,6 +169,7 @@ nhgstats.deaths=Deaths
 nhgstats.games=Games
 nhgstats.general=General
 nhgstats.kits=Kits
+nhgstats.loading=Loading...
 nhgstats.uses=Uses
 nhgstats.won=Games won with
 nhgstats.kills=Kills

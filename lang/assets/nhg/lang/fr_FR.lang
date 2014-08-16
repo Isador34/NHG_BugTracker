@@ -170,6 +170,7 @@ nhgstats.deaths=Morts
 nhgstats.games=Manches jouées
 nhgstats.general=Général
 nhgstats.kits=Kits
+nhgstats.loading=Chargement en cours...
 nhgstats.uses=Utilisations
 nhgstats.won=Manches gagnées
 nhgstats.kills=Victimes
