@@ -43,6 +43,8 @@ message.player.joinLobby=§f %s §evient de se connecter!
 message.player.joinLobbyFromGame=§f %1$s §evient du serveur §f%2$s !
 message.player.achievement=%s a obtenu le succès %s!
 
+achievement.killPyroLava.name=Un bon bain chaud
+
 game.alreadyStarted=§4La partie a déjà commencé !
 
 board.timeTillTheGameStarts=La partie commence dans : %dmin et %ds
@@ -172,6 +174,7 @@ item.backStabber.name=Couteau Papillon
 item.cloakingDevice.name=Montre d'invisibilité
 item.backStabberSilver.name=Couteau Papillon en argent
 
+nhgstats.achievements=Succès
 nhgstats.chooseRandomKit=Manches avec un kit aléatoire
 nhgstats.deaths=Morts
 nhgstats.games=Manches jouées

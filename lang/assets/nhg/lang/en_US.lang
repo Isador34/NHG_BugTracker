@@ -43,6 +43,8 @@ message.player.joinLobby=§f %s §ejust connect!(check english)
 message.player.joinLobbyFromGame=§f %1$s §ecome from server §f%2$s !
 message.player.achievement=%s got the achievement %s!
 
+achievement.killPyroLava.name=A hot bath
+
 game.alreadyStarted=§4The game has already started !
 
 board.timeTillTheGameStarts=The game starts in : %dmin and %ds
@@ -171,6 +173,7 @@ item.backStabber.name=Back Stabber's knife
 item.cloakingDevice.name=Cloaking Device
 item.backStabberSilver.name=Silver Back Stabber's knife
 
+nhgstats.achievements=Achievements
 nhgstats.chooseRandomKit=Random kit chosen
 nhgstats.deaths=Deaths
 nhgstats.games=Games
