@@ -45,7 +45,9 @@ message.player.achievement=%s a obtenu le succès %s!
 message.player.achievement.progress=Vous progressez dans l'achievement %s! Vous êtes maintenant à %s\%!
 
 achievement.killPyroLava.name=Un bon bain chaud
+achievement.killPyroLava.desc=Poussez un pyro dans la lave.
 achievement.bombStreak.name=L'exploseur de faces
+achievement.bombStreak.desc=Tuez 5 personnes avec le kit Bomberman!
 
 game.alreadyStarted=§4La partie a déjà commencé !
 

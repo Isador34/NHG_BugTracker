@@ -34,18 +34,20 @@ message.team.youleave=§9You leaved the team!
 message.team.join=§4%s §9joined your team!
 message.team.youjoin=§9You joined the team!
 message.stats.wait=§4Please wait %d §4seconds before trying again!
-message.player.changeServer=§f %1$s §ejoin server §f%2$s !
-message.player.left=§f %s §eleave this server!
-message.player.leftLobby=§f %s §eleave the lobby!
-message.player.join=§f %s §ejoin this game!
-message.player.joinSpec=§f %s §ecome to see this game!(check english)
-message.player.joinLobby=§f %s §ejust connect!(check english)
-message.player.joinLobbyFromGame=§f %1$s §ecome from server §f%2$s !
+message.player.changeServer=§f %1$s §ejoined the server §f%2$s !
+message.player.left=§f %s §eleft this server!
+message.player.leftLobby=§f %s §eleft the lobby!
+message.player.join=§f %s §ejoined this game!
+message.player.joinSpec=§f %s §ecame to see this game!
+message.player.joinLobby=§f %s §ejust connected!
+message.player.joinLobbyFromGame=§f %1$s §ecame from the server §f%2$s !
 message.player.achievement=%s got the achievement %s!
 message.player.achievement.progress=You're progressing in the achievement %s! You're now at %s\%!
 
 achievement.killPyroLava.name=A hot bath
+achievement.killPyroLava.desc=Push a pyro into a pit of lava.
 achievement.bombStreak.name=Bomb'o'matic
+achievement.killPyroLava.desc=Kill 5 foes with the Bomberman kit
 
 game.alreadyStarted=§4The game has already started !
 
