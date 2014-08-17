@@ -42,6 +42,7 @@ message.player.joinSpec=§f %s §ecome to see this game!(check english)
 message.player.joinLobby=§f %s §ejust connect!(check english)
 message.player.joinLobbyFromGame=§f %1$s §ecome from server §f%2$s !
 message.player.achievement=%s got the achievement %s!
+message.player.achievement.progress=You're progressing in the achievement %s! You're now at %s\%!
 
 achievement.killPyroLava.name=A hot bath
 achievement.bombStreak.name=Bomb'o'matic
