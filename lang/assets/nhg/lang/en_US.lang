@@ -183,6 +183,7 @@ nhgstats.loading=Loading...
 nhgstats.uses=Uses
 nhgstats.won=Games won with
 nhgstats.kills=Kills
+nhgstats.progress=Progress
 nhgstats.spectatorGames=Games in spectator
 nhgstats.stats=%s's stats
 nhgstats.title=Nanotech's Hunger Games Stats

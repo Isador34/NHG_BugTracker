@@ -184,6 +184,7 @@ nhgstats.loading=Chargement en cours...
 nhgstats.uses=Utilisations
 nhgstats.won=Manches gagnées
 nhgstats.kills=Victimes
+nhgstats.progress=Progrès
 nhgstats.spectatorGames=Manches en spectateur
 nhgstats.stats=Statistiques de %s
 nhgstats.title=Statistiques des serveurs Nanotech's Hunger Games 
