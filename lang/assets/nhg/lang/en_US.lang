@@ -47,7 +47,7 @@ message.player.achievement.progress=You're progressing in the achievement %s! Yo
 achievement.killPyroLava.name=A hot bath
 achievement.killPyroLava.desc=Push a pyro into a pit of lava.
 achievement.bombStreak.name=Bomb'o'matic
-achievement.killPyroLava.desc=Kill 5 foes with the Bomberman kit
+achievement.bombStreak.desc=Kill 5 foes with the Bomberman kit
 
 game.alreadyStarted=§4The game has already started !
 
@@ -190,7 +190,7 @@ nhgstats.kills=Kills
 nhgstats.progress=Progress
 nhgstats.spectatorGames=Games in spectator
 nhgstats.stats=%s's stats
-nhgstats.title=Nanotech's Hunger Games Stats
+nhgstats.title=Nanotech Hunger Games Stats
 nhgstats.wonGames=Won games
 
 tile.charging.name=Flames thrower's charging pad
