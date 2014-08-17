@@ -44,6 +44,7 @@ message.player.joinLobbyFromGame=§f %1$s §ecome from server §f%2$s !
 message.player.achievement=%s got the achievement %s!
 
 achievement.killPyroLava.name=A hot bath
+achievement.bombStreak.name=Bomb'o'matic
 
 game.alreadyStarted=§4The game has already started !
 

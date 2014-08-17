@@ -44,6 +44,7 @@ message.player.joinLobbyFromGame=§f %1$s §evient du serveur §f%2$s !
 message.player.achievement=%s a obtenu le succès %s!
 
 achievement.killPyroLava.name=Un bon bain chaud
+achievement.bombStreak.name=L'exploseur de faces
 
 game.alreadyStarted=§4La partie a déjà commencé !
 
