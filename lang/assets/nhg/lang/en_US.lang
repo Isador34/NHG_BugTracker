@@ -175,6 +175,7 @@ item.silverChestplate.name=Silver Chestplate
 item.silverLeggings.name=Silver Leggings
 item.silverBoots.name=Silver Boots
 item.backStabber.name=Back Stabber's knife
+item.backStabber.desc=Back stab your opponent\nto remove half of his/her current health!
 item.cloakingDevice.name=Cloaking Device
 item.backStabberSilver.name=Silver Back Stabber's knife
 

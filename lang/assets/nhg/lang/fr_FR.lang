@@ -176,6 +176,7 @@ item.silverChestplate.name=Plastron d'Argent
 item.silverLeggings.name=Pantalon d'Argent
 item.silverBoots.name=Bottes d'Argent
 item.backStabber.name=Couteau Papillon
+item.backStabber.desc=Poignardez votre ennemi dans le dos\npour retirer la moitié de sa vie!
 item.cloakingDevice.name=Montre d'invisibilité
 item.backStabberSilver.name=Couteau Papillon en argent
 
