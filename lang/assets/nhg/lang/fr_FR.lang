@@ -78,6 +78,7 @@ gui.admin.name=Interface administrateur
 gui.menu.serverstopped=Serveur stoppé
 gui.menu.lobby=Hall
 gui.menu.returnToLobby=Retour au Hall
+gui.reportBug=Signaler un bug
 gui.menu.time=Temps: %s
 gui.team.inviteb=Inviter un joueur
 gui.team.leave=Quitter ce groupe
@@ -90,7 +91,7 @@ gui.team.name=Créer un groupe
 gui.team.accept=Accepter
 gui.team.deny=Refuser
 gui.team.invite=Vous êtes invité dans le groupe : %s
-gui.option.acceptInvite=Accepter les invitation : %d
+gui.option.acceptInvite=Accepter les invitations : %d
 
 kit.kit1.name=Barbare
 kit.kit1.desc=Vous avez une épée en pierre et un plastron en maille.\nVous êtes plus résistant et plus fort.\nVous êtes plus lent, vous minez moins vite et vous êtes moins endurant.

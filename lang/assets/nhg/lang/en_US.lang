@@ -78,6 +78,7 @@ gui.admin.name=Admin panel
 gui.menu.serverstopped=Server stopped
 gui.menu.lobby=Lobby
 gui.menu.returnToLobby=Return to the lobby
+gui.reportBug=Report a bug
 gui.team.inviteb=Invite player
 gui.team.leave=Leave this team
 gui.team.red=Red
