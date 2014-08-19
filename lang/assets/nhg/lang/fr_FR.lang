@@ -42,7 +42,6 @@ message.player.joinSpec=§f %s §evient observer cette partie!
 message.player.joinLobby=§f %s §evient de se connecter!
 message.player.joinLobbyFromGame=§f %1$s §evient du serveur §f%2$s !
 message.player.achievement=%s a obtenu le succès %s!
-message.player.achievement.progress=Vous progressez dans l'achievement %s! Vous êtes maintenant à %s\%!
 message.death.hand.name=Main
 
 achievement.killPyroLava.name=Un bon bain chaud
